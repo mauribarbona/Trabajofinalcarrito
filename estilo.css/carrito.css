@@ -1,0 +1,33 @@
+/*-------------------Carrito de compras-------------*/
+div.row {
+    place-content: center;
+    padding: 20px;
+    inline-size: max-content;
+    justify-content: flex-start;
+  }
+  
+  div.card-body {
+    background: rgb(224, 224, 224);
+    box-sizing: border-box;
+    align-self: center;
+  }
+  
+  div.card.col-sm-4 {
+    background: rgb(224, 224, 224);
+    height: 400px;
+    padding: 10px 15px 10px 15px;
+    margin: 30px;
+    width: 300px;
+    outline: auto;
+  }
+  
+  #boton-vaciar.btn.btn-danger {
+    background: firebrick;
+  }
+  
+  img.img-fluid {
+    height: 200px;
+    box-sizing: border-box;
+    outline: auto;
+  
+  }
